@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" fill="none">
+  <!-- Festive aura -->
+  <circle cx="200" cy="200" r="140" fill="#F4FBF9"/>
+  
+  <!-- Floating confetti & starbursts -->
+  <rect x="70" y="80" width="10" height="6" rx="2" fill="#00BFA5" transform="rotate(35 70 80)"/>
+  <rect x="330" y="90" width="12" height="6" rx="2" fill="#FF8A65" transform="rotate(-25 330 90)"/>
+  <rect x="190" y="50" width="8" height="8" rx="2" fill="#FFE082" transform="rotate(45 190 50)"/>
+  <rect x="110" y="140" width="10" height="5" rx="2" fill="#80CBC4" transform="rotate(-40 110 140)"/>
+  <rect x="290" y="150" width="9" height="5" rx="2" fill="#00BFA5" transform="rotate(20 290 150)"/>
+  
+  <!-- Big checkmark badge of completed trade -->
+  <g transform="translate(170, 70)">
+    <circle cx="30" cy="30" r="26" fill="#00BFA5"/>
+    <path d="M20 30 L27 37 L40 23" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Left Character: Joyfully holding newly traded camera -->
+  <path d="M120 260 L110 335 L95 340" stroke="#263238" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M135 260 L145 335 L160 340" stroke="#263238" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M115 190 C115 170, 145 170, 145 190 L140 260 C140 270, 115 270, 115 260 Z" fill="#80CBC4"/>
+  <circle cx="130" cy="145" r="16" fill="#FFCCBC"/>
+  <path d="M120 140 C120 125, 145 125, 145 140 C145 152, 135 150, 120 140 Z" fill="#37474F"/>
+  <circle cx="135" cy="145" r="2" fill="#212121"/>
+  <path d="M130 152 Q 135 156 140 152" stroke="#212121" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+  
+  <!-- Left arm holding camera up -->
+  <path d="M120 200 Q 95 180 110 150" stroke="#FFCCBC" stroke-width="9" stroke-linecap="round"/>
+  <!-- Camera in hand -->
+  <rect x="90" y="140" width="28" height="20" rx="3" fill="#37474F"/>
+  <circle cx="104" cy="150" r="5" fill="#B2DFDB"/>
+
+  <!-- High-five arms connecting in center -->
+  <path d="M140 195 Q 170 160 190 150" stroke="#FFCCBC" stroke-width="9" stroke-linecap="round"/>
+  <path d="M260 195 Q 230 160 210 150" stroke="#FFD54F" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="200" cy="150" r="6" fill="#FFE082"/>
+
+  <!-- Right Character: Joyfully holding newly traded smartphone -->
+  <path d="M265 260 L255 335 L240 340" stroke="#004D40" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M280 260 L290 335 L305 340" stroke="#004D40" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M255 190 C255 170, 285 170, 285 190 L280 260 C280 270, 255 270, 255 260 Z" fill="#00BFA5"/>
+  <circle cx="270" cy="145" r="16" fill="#FFD54F"/>
+  <path d="M260 140 C260 125, 288 125, 288 140 C288 152, 275 150, 260 140 Z" fill="#4E342E"/>
+  <circle cx="266" cy="145" r="2" fill="#212121"/>
+  <path d="M262 152 Q 266 156 270 152" stroke="#212121" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+  
+  <!-- Right arm holding phone -->
+  <path d="M280 200 Q 305 180 290 150" stroke="#FFD54F" stroke-width="9" stroke-linecap="round"/>
+  <!-- Smartphone in hand -->
+  <rect x="285" y="138" width="14" height="24" rx="3" fill="#263238"/>
+  <rect x="287" y="141" width="10" height="18" rx="1" fill="#E0F2F1"/>
+
+  <!-- Ground shadows -->
+  <ellipse cx="130" cy="350" rx="45" ry="6" fill="#E0F2F1"/>
+  <ellipse cx="270" cy="350" rx="45" ry="6" fill="#E0F2F1"/>
+</svg>

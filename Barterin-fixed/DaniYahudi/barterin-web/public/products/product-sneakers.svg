@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="500" height="400" fill="none">
+  <!-- Studio Background -->
+  <rect width="500" height="400" fill="#F8FAFA"/>
+  <ellipse cx="250" cy="330" rx="170" ry="20" fill="#000000" fill-opacity="0.1"/>
+  
+  <!-- Sneaker Vector Artwork -->
+  <g transform="translate(60, 100)">
+    <!-- Outsole & Midsole -->
+    <path d="M40 200 C80 200, 180 205, 260 205 C330 205, 360 185, 360 170 C360 160, 340 165, 310 168 C250 170, 180 170, 70 175 C45 175, 25 185, 25 195 C25 200, 32 200, 40 200 Z" fill="#212121"/>
+    <!-- Mint Midsole -->
+    <path d="M28 190 C60 190, 180 195, 260 195 C330 195, 355 175, 355 165 C350 160, 310 162, 260 162 C160 162, 65 168, 30 174 C25 178, 25 185, 28 190 Z" fill="#E0F2F1" stroke="#00BFA5" stroke-width="2"/>
+    
+    <!-- White Leather Upper -->
+    <path d="M35 170 C35 130, 80 85, 130 85 C145 85, 160 100, 175 110 C210 130, 280 140, 340 145 C355 150, 355 162, 340 165 C280 165, 100 165, 35 170 Z" fill="#FFFFFF" stroke="#CFD8DC" stroke-width="2"/>
+
+    <!-- Mint Green Heel & Collar Overlays -->
+    <path d="M35 168 C35 130, 65 95, 100 95 C115 95, 120 120, 120 145 C120 165, 80 168, 35 168 Z" fill="#00BFA5"/>
+    <path d="M100 95 C120 95, 140 115, 150 135 L125 145 C120 120, 110 105, 100 95 Z" fill="#00897B"/>
+
+    <!-- Mint Toe Cap Overlay -->
+    <path d="M270 145 C295 145, 335 148, 350 160 C345 165, 285 165, 265 160 C265 152, 268 147, 270 145 Z" fill="#00BFA5"/>
+
+    <!-- Lacing System & Tongue -->
+    <path d="M140 105 C155 105, 195 125, 230 135 L225 145 C190 135, 155 118, 140 115 Z" fill="#37474F"/>
+    <!-- White Laces Criss-Cross -->
+    <line x1="150" y1="112" x2="168" y2="128" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+    <line x1="168" y1="120" x2="188" y2="134" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+    <line x1="188" y1="126" x2="210" y2="138" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+    <line x1="210" y1="132" x2="230" y2="142" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- Swoosh / Wave Logo in Coral Accent -->
+    <path d="M90 152 C130 152, 190 125, 275 125 C250 140, 200 158, 140 162 C115 162, 95 158, 90 152 Z" fill="#FF7043"/>
+    
+    <!-- Perforations on Toe Box -->
+    <g fill="#B0BEC5">
+      <circle cx="285" cy="150" r="1.5"/><circle cx="295" cy="150" r="1.5"/><circle cx="305" cy="152" r="1.5"/>
+      <circle cx="290" cy="155" r="1.5"/><circle cx="300" cy="155" r="1.5"/>
+    </g>
+  </g>
+</svg>
