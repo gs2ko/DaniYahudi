@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" fill="none">
+  <!-- Soft background aura -->
+  <circle cx="200" cy="200" r="140" fill="#F4FBF9"/>
+  <circle cx="95" cy="120" r="12" fill="#E0F2F1"/>
+  <circle cx="310" cy="140" r="10" fill="#FFE082"/>
+  
+  <!-- Big soft outlined heart with dashed ribbon -->
+  <g transform="translate(145, 75)">
+    <path d="M55 25 C55 10, 40 0, 27 0 C12 0, 0 12, 0 28 C0 50, 40 75, 55 90 C70 75, 110 50, 110 28 C110 12, 98 0, 83 0 C70 0, 55 10, 55 25 Z" fill="#FFFFFF" stroke="#00BFA5" stroke-width="4" stroke-dasharray="8 6"/>
+    <!-- Small star inside -->
+    <path d="M55 35 L58 45 L68 45 L60 52 L63 62 L55 56 L47 62 L50 52 L42 45 L52 45 Z" fill="#FFE082"/>
+  </g>
+
+  <!-- Character looking at heart with bookmark in hand -->
+  <!-- Legs -->
+  <path d="M185 270 L175 340 L160 345" stroke="#004D40" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M210 270 L220 340 L235 345" stroke="#004D40" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Torso & mint shirt -->
+  <path d="M180 195 C180 175, 215 175, 215 195 L210 270 C210 280, 180 280, 180 270 Z" fill="#80CBC4"/>
+  <rect x="188" y="200" width="18" height="24" rx="4" fill="#00BFA5"/>
+
+  <!-- Head -->
+  <circle cx="198" cy="150" r="16" fill="#FFCCBC"/>
+  <path d="M188 145 C188 130, 216 130, 216 145 C216 158, 204 156, 188 145 Z" fill="#4E342E"/>
+  <circle cx="204" cy="150" r="2" fill="#212121"/>
+  <path d="M200 156 Q 204 160 208 156" stroke="#212121" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+
+  <!-- Arms reaching up towards the heart -->
+  <path d="M180 205 Q 160 170 175 145" stroke="#FFCCBC" stroke-width="9" stroke-linecap="round"/>
+  <path d="M215 205 Q 235 170 220 145" stroke="#FFCCBC" stroke-width="9" stroke-linecap="round"/>
+
+  <!-- Bookmark tag floating near hand -->
+  <path d="M230 140 L245 140 L245 170 L237.5 163 L230 170 Z" fill="#00BFA5"/>
+  <circle cx="237.5" cy="146" r="2.5" fill="#FFFFFF"/>
+
+  <!-- Ground shadow -->
+  <ellipse cx="200" cy="355" rx="90" ry="7" fill="#E0F2F1"/>
+</svg>
