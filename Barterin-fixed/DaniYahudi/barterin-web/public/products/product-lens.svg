@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="500" height="400" fill="none">
+  <!-- Studio Background -->
+  <rect width="500" height="400" fill="#F8FAFA"/>
+  <ellipse cx="250" cy="340" rx="150" ry="18" fill="#000000" fill-opacity="0.12"/>
+  
+  <g transform="translate(150, 70)">
+    <!-- Lens Body Cylindrical Stacking -->
+    <!-- Metal Mount (Bottom) -->
+    <rect x="35" y="235" width="130" height="15" rx="3" fill="#B0BEC5" stroke="#78909C" stroke-width="1.5"/>
+    <rect x="45" y="245" width="110" height="8" rx="2" fill="#CFD8DC"/>
+    <!-- Red Mount Alignment Dot -->
+    <circle cx="100" cy="240" r="2.5" fill="#E53935"/>
+
+    <!-- Lower Barrel -->
+    <rect x="25" y="180" width="150" height="55" rx="4" fill="#212529"/>
+    <!-- Focus Switch -->
+    <rect x="35" y="195" width="22" height="18" rx="3" fill="#37474F"/>
+    <text x="40" y="208" font-family="'Roboto', sans-serif" font-size="7" font-weight="700" fill="#ECEFF1">AF</text>
+
+    <!-- Distance Scale Window -->
+    <rect x="75" y="192" width="50" height="18" rx="2" fill="#0E1113" stroke="#455A64" stroke-width="1"/>
+    <text x="100" y="204" font-family="'Roboto', sans-serif" font-size="7" font-weight="600" fill="#00BFA5" text-anchor="middle">50mm F1.8</text>
+
+    <!-- Rubberized Focus Ring with Ribbed Texture -->
+    <rect x="20" y="90" width="160" height="90" rx="4" fill="#181A1C"/>
+    <!-- Vertical Ribs -->
+    <g stroke="#2C3034" stroke-width="2">
+      <line x1="30" y1="92" x2="30" y2="178"/>
+      <line x1="40" y1="92" x2="40" y2="178"/>
+      <line x1="50" y1="92" x2="50" y2="178"/>
+      <line x1="60" y1="92" x2="60" y2="178"/>
+      <line x1="70" y1="92" x2="70" y2="178"/>
+      <line x1="80" y1="92" x2="80" y2="178"/>
+      <line x1="90" y1="92" x2="90" y2="178"/>
+      <line x1="100" y1="92" x2="100" y2="178"/>
+      <line x1="110" y1="92" x2="110" y2="178"/>
+      <line x1="120" y1="92" x2="120" y2="178"/>
+      <line x1="130" y1="92" x2="130" y2="178"/>
+      <line x1="140" y1="92" x2="140" y2="178"/>
+      <line x1="150" y1="92" x2="150" y2="178"/>
+      <line x1="160" y1="92" x2="160" y2="178"/>
+      <line x1="170" y1="92" x2="170" y2="178"/>
+    </g>
+
+    <!-- Front Bezel Ring -->
+    <rect x="22" y="55" width="156" height="35" rx="3" fill="#212529" stroke="#37474F" stroke-width="1.5"/>
+    <!-- Mint Accent Ring (Luxury Line style) -->
+    <rect x="22" y="85" width="156" height="3" fill="#00BFA5"/>
+
+    <!-- Top Front Filter Thread & Glass Perspective -->
+    <ellipse cx="100" cy="55" rx="78" ry="24" fill="#1C1F22" stroke="#455A64" stroke-width="2"/>
+    <ellipse cx="100" cy="55" rx="66" ry="18" fill="#0D1318"/>
+    <!-- Multicoated Optical Element Reflections -->
+    <ellipse cx="100" cy="55" rx="54" ry="14" fill="#004D40" fill-opacity="0.5"/>
+    <ellipse cx="90" cy="52" rx="30" ry="8" fill="#00BFA5" fill-opacity="0.6"/>
+    <ellipse cx="115" cy="58" rx="20" ry="5" fill="#7C4DFF" fill-opacity="0.3"/>
+    <circle cx="85" cy="50" r="3" fill="#FFFFFF" fill-opacity="0.8"/>
+  </g>
+</svg>
